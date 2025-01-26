@@ -1,4 +1,4 @@
 def a():
-    print(10)
+    print(100)
 def b():
     print(20)
